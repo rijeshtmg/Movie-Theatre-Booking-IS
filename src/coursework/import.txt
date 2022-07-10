@@ -1,0 +1,16 @@
+1006,Anuj Pradhan,No way Home,Fantasy,Hall 1,3D,400
+1007,Arpn Poudel,Captain,Drama,Hall 2,2D,300
+1008,Alisha Ghimire,Avatar,Action,Hall 3,3D,400
+1009,Manyata Ghimire,Bell Bottom,Comedy,Hall 2,2D,300
+1010,Minisha Poudel,Dhamaka,Action,Hall 1,10D,200
+1011,Ronaldo Karki,Doctor,Drama,Hall 2,2D,300
+1012,Messi Kami,Kathputli,Fantasy,Hall 2,2D,300
+1013,Paras Khadka,Red,Horror,Hall 3,2D,300
+1014,Soupna Suman,Dhamaka,Fantasy,Hall 1,5D,200
+1015,Melina Rai,Master,Thriller,Hall 3,3D,400
+1016,Raz Adhikari,Captain,Drama,Hall 2,2D,300
+1017,Bandana Adhikari,Dhamaka,Horror,Hall 1,4D,200
+1018,Ankit Khanal,Mimi,Comedy,Hall 1,2D,200
+1019,Pawan Pandey,Dhamaka,Action,Hall 1,10D,200
+1020,Jason Josi,Kaaval,Action,Hall 3,3D,400
+1021,Apson Sapkota,Aashiqe,Romance,Hall 2,2D,300
